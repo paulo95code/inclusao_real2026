@@ -46,5 +46,5 @@ O projeto foi desenvolvido com uma arquitetura Full Stack, utilizando as seguint
 
 ## 👩‍💻 Autoria
 
-Desenvolvido por [Seu Nome/Seu Usuário no GitHub].
+Desenvolvido por [paulo95code].
 Iniciativa e pauta por Andiara Ferreira.
