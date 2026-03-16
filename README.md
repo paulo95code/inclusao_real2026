@@ -25,7 +25,7 @@ A inclusão é um direito, mas a inclusão sem estrutura adequada não atende ni
 
 * [HTML5 / CSS3] *(Altere de acordo com o que você usou)*
 * [JavaScript]
-* [Framework que você usou, ex: React, Vue, Tailwind]*
+* [React, Vue, Tailwind]*
 
 ## 👩‍💻 Autoria
 
