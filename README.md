@@ -9,7 +9,7 @@
 Abaixo você pode conferir a navegação e o visual completo da plataforma:
 
 <!-- Substitua o link abaixo pelo caminho onde você salvou o seu GIF -->
-![Demonstração de uso do Inclusão Real](./docs/demo.gif)
+![Demonstração de uso do Inclusão Real](./inclusaoreal.gif)
 
 ## 🎯 Sobre o Projeto
 
